@@ -1,6 +1,6 @@
 - 👋 Olá, Sou Caio Oliveira
-- 💞️ Tenho alguns sites/sistemas ja criados com base no Wordpress e funções personalizadas.
-- 👀 Conhecimentos em Java, PHP e SQL
+- 💞️ Tenho alguns sites/sistemas ja criados com base PHP e JS, e blogs em Wordpress
+- 👀 Conhecimentos em JS, PHP, CSS, HTML-5 e SQL
 - 🌱 Técnico em Suporte e Manutenção em informatica - Concluido (2021)
 - 💞️ Licenciatura em Computação - em Andamento (2023)
 
